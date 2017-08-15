@@ -15,7 +15,7 @@ permalink: /marketing-checklist/
 - [ ] Make a list of competitive/alternative services.
 
   ##### Finding competitors
-  - [ x ] [Alexa](http://www.alexa.com/find-similar-sites)
+  - [x] [Alexa](http://www.alexa.com/find-similar-sites)
   - [ ] [AlternativeTo](https://alternativeto.net)
   - [ ] [AngelList](https://angel.co/)
   - [ ] [Product Hunt](https://www.producthunt.com/)
